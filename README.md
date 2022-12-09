@@ -8,4 +8,4 @@
 ## Using
 * Python ==> extract info from json files.
 * Excel ==> prapare and clean data.
-* Power BI ==> build dashboard. 
+* Power BI ==> build the dashboard. 
